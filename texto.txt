@@ -1,1 +1,2 @@
 esta es una prueba  para usar el repositorio
+para bajar el repositorio es con pull
